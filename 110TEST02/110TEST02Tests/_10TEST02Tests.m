@@ -1,6 +1,6 @@
 //
-//  _10test01Tests.m
-//  110test01Tests
+//  _10TEST02Tests.m
+//  110TEST02Tests
 //
 //  Created by qianfeng on 15/11/23.
 //  Copyright (c) 2015年 TB. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface _10test01Tests : XCTestCase
+@interface _10TEST02Tests : XCTestCase
 
 @end
 
-@implementation _10test01Tests
+@implementation _10TEST02Tests
 
 - (void)setUp {
     [super setUp];
