@@ -30,4 +30,10 @@
 }
 
 
+-(void)zhongyuchenggongle
+{
+    NSLog(@"你终于睁眼了");
+}
+
+
 @end
